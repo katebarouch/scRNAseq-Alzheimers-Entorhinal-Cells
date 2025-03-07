@@ -1,6 +1,6 @@
 # scRNAseq-Alzheimers-Microglia
 
-A computational analysis of publicly available scRNA-seq data to explore microglial differences in Alzheimer’s Disease and non-demented individuals.
+A computational analysis of publicly available scRNA-seq data to explore microglial differences in Alzheimer’s Disease and non-Alzheimer’s Disease individuals.
 
 ## Project Overview
 
